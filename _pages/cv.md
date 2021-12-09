@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - https://heshanxiu.github.io/files/ShanxiuHe_CV.pdf.
 ---
 
 {% include base_path %}
