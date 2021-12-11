@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shanxiu He"
 title_separator          : "-"
 name                     : &name "Shanxiu He"
-description              : &description "CS undergrad at UCLA, minor in statistic; 2021 summer intern at USC ISI"
+description              : &description "CS undergrad at UCLA; 2021 summer intern at USC ISI"
 url                      : "https://heshanxiu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heshanxiu/heshanxiu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shanxiu He"
   avatar           : "shanxiu_headshot.jpeg"
-  bio              : "CS undergrad at UCLA, minor in statistic; 2021 summer intern at USC ISI"
+  bio              : "CS undergrad at UCLA; 2021 summer intern at USC ISI"
   location         : "Los Angeles, California"
   employer         :
   pubmed           :
@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/shanxiuh"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+#  medium           : "https://medium.com/@heshanxiu"
 
 # Reading Files
 include:
