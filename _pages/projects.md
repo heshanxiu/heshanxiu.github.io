@@ -37,7 +37,7 @@ Initial results achieved 0.77 ROCAUC score on validation time.
 
 Targeted Grounded Situation Recognition (SWiG datasets) with two types of Vision and Language Models. 
 CLIP-based model exceeded traditional computer vision models. Traditional Vision and Language approach matches previous 
-baselines on noun predictions with 63.33\% accuracy given ground truth verb.
+baselines on noun predictions with 63.33% accuracy given ground truth verb.
 
 [Report: Grounded Situation Recognition with VL Models](/files/Grounded%20Situation%20Recognition.pdf)
 
