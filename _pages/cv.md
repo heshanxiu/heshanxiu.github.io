@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /about/
 redirect_to:
-  - /files/shanxiuhe_cv.pdf
+  - /files/shanxiu_cv.pdf
 ---
 
 {% include base_path %}
