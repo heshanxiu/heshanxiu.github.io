@@ -8,7 +8,7 @@ author_profile: true
 Here are some of my selected research projects. There are three parts: [Knowledge-Enhanced NLP](#knowledge-enhanced-nlp), 
 [Machine Commonsense](#machine-commonsense), and [Graphs](#graphs)
 
-## Knowledge-Enhanced NLP
+# Knowledge-Enhanced NLP
 
 ## 1. Goal-Oriented Event Chain Generation
 
@@ -30,7 +30,7 @@ Implemented Graph-Transformer architecture to represent edge level information a
 Developed strategies for Graph-Transformer such as connectivity and eigenvalue similarity. 
 Initial results achieved 0.77 ROCAUC score on validation time.
 
-## Machine Commonsense
+# Machine Commonsense
 
 
 ## 1. Grounded Situation Recognition with Vision and Language Models
@@ -60,7 +60,7 @@ The model outperformed counterparts by 5% test time accuracy with DAQUAR,
 COCO-QA and VQA datasets.
  
  
-## Graphs
+# Graphs
  
 ## 1. GNN Adversarial Training
  
