@@ -43,7 +43,10 @@ baselines on noun predictions with 63.33% accuracy given ground truth verb.
 
 ## 2. Probing Vision and Language Models 
 
-<img style="float: right;" src="/images/probing_vl_models.png" width="200">
+<p>
+    <img style="float: right;" src="/images/probing_vl_models.png" width="200" >
+    <em>Image 1: What is Vision-and-Language Models </em>
+</p>
 
 Examined additional cross attention layers in LXMERT. Extracted visual and text hidden representations to
  perform visual Semantic Role Labeling. Concluded concluded the additional layers might not always be beneficial. 
