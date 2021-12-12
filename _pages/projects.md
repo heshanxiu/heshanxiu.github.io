@@ -12,12 +12,14 @@ Here are some of my selected research projects. There are three parts: [Knowledg
 
 ### Goal-Oriented Event Chain Generation
  
-<img src="/images/APSI.png" width="200">
+<img src="/images/ASPI.png" width="500">
 
 Implemented three large language models (GPT2, T5 and BART) to perform event chain sequences generation. 
 On average, the models outperformed the state-of-the-art statistical baseline by 3\% on E-ROUGE scores. 
 Proved the generated event sequences helpful to text generation domain in a zero-shot setting.
-picture citation: Analogous Process Structure Induction for Sub-event Sequence Prediction. EMNLP 2020.
+
+
+Picture citation: Analogous Process Structure Induction for Sub-event Sequence Prediction. EMNLP 2020.
 
 
 ### On the Difficulty of Utilizing Commonsense Knowledge
@@ -44,7 +46,7 @@ baselines on noun predictions with 63.33\% accuracy given ground truth verb.
 
 ### Probing Vision and Language Models 
 
-<img src="/images/probing_vl_models.png" width="200">
+<img src="/images/probing_vl_models.png" width="500">
 
 Examined additional cross attention layers in LXMERT. Extracted visual and text hidden representations to
  perform visual Semantic Role Labeling. Concluded concluded the additional layers might not always be beneficial.
