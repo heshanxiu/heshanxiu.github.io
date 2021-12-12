@@ -16,3 +16,24 @@ In summer 2021, I had the fortune to work with Professor [Jonathan May](https://
 Professor [Muhao Chen](https://muhaochen.github.io) at USC, ISI as an NLP intern.
 
 In my free time, I like reading, painting, and baking.
+
+
+
+#### Research Experience
+
+
+- Jun. 2021 - Present, NLP Research Intern at USC ISI
+    - Mentor: Prof. Jonathan May and Prof. Muhao Chen
+
+
+- Dec. 2019 - Present, NLP Researcher at UCLA-NLP 
+    - Mentor: Prof. Kai-Wei Chang 
+
+
+
+- Jan. 2021 - Jun. 2021, ML Researcher, UCLA Scalable Analytics Institute 
+    - Mentor: Prof. Yizhou Sun
+
+
+- Mar. 2020 - Sep. 2020, Research Collaborator, Columbia DVMM lab
+    - Mentor: Prof. Shih-Fu Chang and Prof. Kai-Wei Chang
