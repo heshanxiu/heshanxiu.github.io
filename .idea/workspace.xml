@@ -48,6 +48,8 @@
       <workItem from="1638907136216" duration="7000" />
       <workItem from="1639085374456" duration="5041000" />
       <workItem from="1639263275857" duration="9955000" />
+      <workItem from="1639289085233" duration="39000" />
+      <workItem from="1639552854224" duration="1416000" />
     </task>
     <servers />
   </component>
@@ -55,11 +57,12 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="490" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1639289085604">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="490" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1639554127924">
+      <screen x="0" y="23" width="1440" height="802" />
     </state>
     <state x="2093" y="232" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.-140.1920.1080@1440.-140.1920.1080" timestamp="1638907136289" />
     <state x="490" y="310" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1639289085604" />
+    <state x="490" y="299" key="com.intellij.ide.util.TipDialog/0.23.1440.802/1440.-117.1920.1057@0.23.1440.802" timestamp="1639554127924" />
     <state x="2093" y="232" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-140.1920.1080@1440.-140.1920.1080" timestamp="1639085376511" />
     <state x="480" y="248" width="683" height="546" key="find.popup" timestamp="1639270288816">
       <screen x="0" y="0" width="1440" height="900" />
