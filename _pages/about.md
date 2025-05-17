@@ -8,24 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Computer Science undergraduate student at UCLA. My research interest lies in Natural Language Processing (NLP).
-More specifically, I am interested in knowledge-enhanced natural language generation (NLG), machine commonsense, and event information.
+Hello! I am a Computer Science Phd Candidate at UCSB with Professor Tao Yang. My research focuses on the effectiveness and efficiency tradeoffs for neural information retrieval problems.
 
-During my undergraduate study, I work with Professor [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) on structural learning of vision-and-language models.
+During my undergraduate study at UCLA, I had to fortune to work with Professor [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) on structural learning of vision-and-language models.
 In summer 2021, I had the fortune to work with Professor [Jonathan May](https://www.isi.edu/~jonmay/) and 
-Professor [Muhao Chen](https://muhaochen.github.io) at USC, ISI as an NLP intern.
-
-In my free time, I like reading, painting, and baking.
+Professor [Muhao Chen](https://muhaochen.github.io) at USC, ISI.
 
 
 
 ## Research Experience
 
+- Sep. 2022 - Present, UCSB Information Retrieval Lab
 
-- Jun. 2021 - Present, NLP Research Intern at USC ISI
+- Dec. 2019 - March. 2022, NLP Researcher at UCLA-NLP 
 
-- Dec. 2019 - Present, NLP Researcher at UCLA-NLP 
+- Jun. 2021 - Oct. 2021, NLP Research Intern at USC ISI
 
-- Jan. 2021 - Jun. 2021, ML Researcher, UCLA Scalable Analytics Institute 
 
-- Mar. 2020 - Sep. 2020, Research Collaborator, Columbia DVMM lab
+<!-- - Jan. 2021 - Jun. 2021, ML Researcher, UCLA Scalable Analytics Institute  -->
+
+<!-- - Mar. 2020 - Sep. 2020, Research Collaborator, Columbia DVMM lab -->
