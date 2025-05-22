@@ -29,8 +29,8 @@ During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang
 
 ### Low-Cost Document Retrieval with Dense Pseudo-Query Encoding
 
-**Shanxiu He**, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang.\
-{style="color: blue"}
+<font color='blue'>**Shanxiu He**, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang.\ font</font>
+
 Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
 
     
