@@ -34,7 +34,7 @@ During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang
 <!-- <font color='blue'> *Shanxiu He*, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang. </font> -->
 Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
 
-    
+
 ### Dynamic Superblock Pruning for Fast Learned Sparse Retrieval [🔗](https://arxiv.org/pdf/2504.17045)
 
 Parker Carlson, Wentai Xie, **Shanxiu He**, Tao Yang.\
@@ -59,24 +59,24 @@ The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP),
 ### Cluster-based Partial Dense Retrieval Fused with Sparse Text Retrieval [🔗](https://dl.acm.org/doi/pdf/10.1145/3626772.3657972)
 
 Yingrui Yang, Parker Carlson, Yifan Qiao, **Shanxiu He**, Tao Yang.\
-Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024, pages: 2327-2331.
+Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024.
     
 
 ### Weighted KL-Divergence for Document Ranking Model Refinement [🔗](https://dl.acm.org/doi/pdf/10.1145/3626772.3657946)
 
 Yingrui Yang, Yifan Qiao, **Shanxiu He**, Tao Yang.\
-Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024, pages: 2698-2702.
+Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024.
     
 ### Balanced Knowledge Distillation with Contrastive Learning for Document Re-ranking [🔗](https://dl.acm.org/doi/pdf/10.1145/3578337.3605120)
 
 Yingrui Yang, **Shanxiu He**, Yifan Qiao, Wentai Xie, Tao Yang.\
-Proceedings of the 2023 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), pages: 247-255.
+Proceedings of the 2023 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR).
     
 
 ### Representation Sparsification with Hybrid Thresholding for Fast SPLADE-based Document Retrieval [🔗](https://dl.acm.org/doi/pdf/10.1145/3539618.3592051)
 
 Yifan Qiao, Yingrui Yang, **Shanxiu He**, Tao Yang.\
-Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval 2023, pages: 2329-2333.
+Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval 2023.
 
 <!-- - Jan. 2021 - Jun. 2021, ML Researcher, UCLA Scalable Analytics Institute  -->
 
