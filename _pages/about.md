@@ -25,18 +25,18 @@ During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang
 - Jun. 2021 - Oct. 2021, NLP Research Intern at USC ISI
 
 
-## Conference Papers and Journal Papers
+## Publications
 
 ### Low-Cost Document Retrieval with Dense Pseudo-Query Encoding
 
 Shanxiu He, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
 
     
-### Dynamic Superblock Pruning for Fast Learned Sparse Retrieval(https://arxiv.org/pdf/2504.17045)
+### [Dynamic Superblock Pruning for Fast Learned Sparse Retrieval](https://arxiv.org/pdf/2504.17045)
 
 Parker Carlson, Wentai Xie, Shanxiu He, Tao Yang. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
     
-### LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval(https://arxiv.org/pdf/2502.10639)
+### [LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval](https://arxiv.org/pdf/2502.10639)
 
 Yingrui Yang, Parker Carlson, Yifan Qiao, Wentai Xie, Shanxiu He, Tao Yang. The 47th European Conference on Information Retrieval (ECIR) 2025.
 
