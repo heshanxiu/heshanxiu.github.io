@@ -33,45 +33,45 @@ During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang
 Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
 
     
-### Dynamic Superblock Pruning for Fast Learned Sparse Retrieval[🔗](https://arxiv.org/pdf/2504.17045)
+### Dynamic Superblock Pruning for Fast Learned Sparse Retrieval [🔗](https://arxiv.org/pdf/2504.17045)
 
 Parker Carlson, Wentai Xie, **Shanxiu He**, Tao Yang.\
 Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
 
-### Token Pruning Optimization for Efficient Dense Retrieval with Multi-Vector Representations[🔗](https://assets.amazon.science/a3/46/81ba78eb4a4c9b90e5939b8df2bd/token-pruning-optimization-for-efficient-multi-vector-dense-retrieval.pdf)
+### Token Pruning Optimization for Efficient Dense Retrieval with Multi-Vector Representations [🔗](https://assets.amazon.science/a3/46/81ba78eb4a4c9b90e5939b8df2bd/token-pruning-optimization-for-efficient-multi-vector-dense-retrieval.pdf)
 
 **Shanxiu He**, Mutasem Al-Darabsah, Suraj Nair, Jonathan May, Tarun Agarwal, Tao Yang and Choon Hui Teo.\
 The 47th European Conference on Information Retrieval (ECIR) 2025.
     
-### [LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval](https://arxiv.org/pdf/2502.10639)
+### LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval [🔗](https://arxiv.org/pdf/2502.10639)
 
 Yingrui Yang, Parker Carlson, Yifan Qiao, Wentai Xie, **Shanxiu He**, Tao Yang.\
 The 47th European Conference on Information Retrieval (ECIR) 2025.
 
 
-### [Threshold-driven Pruning with Segmented Maximum Term Weights for Approximate Cluster-based Sparse Retrieval](https://aclanthology.org/2024.emnlp-main.1101.pdf)
+### Threshold-driven Pruning with Segmented Maximum Term Weights for Approximate Cluster-based Sparse Retrieval [🔗](https://aclanthology.org/2024.emnlp-main.1101.pdf)
 
 Yifan Qiao, **Shanxiu He**, Parker Carlson, Yingrui Yang, Tao Yang.\
 The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), main conference 2024.
     
-### [Cluster-based Partial Dense Retrieval Fused with Sparse Text Retrieval](https://dl.acm.org/doi/pdf/10.1145/3626772.3657972)
+### Cluster-based Partial Dense Retrieval Fused with Sparse Text Retrieval [🔗](https://dl.acm.org/doi/pdf/10.1145/3626772.3657972)
 
 Yingrui Yang, Parker Carlson, Yifan Qiao, **Shanxiu He**, Tao Yang.\
 Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024, pages: 2327-2331.
     
 
-### [Weighted KL-Divergence for Document Ranking Model Refinement](https://dl.acm.org/doi/pdf/10.1145/3626772.3657946)
+### Weighted KL-Divergence for Document Ranking Model Refinement [🔗](https://dl.acm.org/doi/pdf/10.1145/3626772.3657946)
 
 Yingrui Yang, Yifan Qiao, **Shanxiu He**, Tao Yang.\
 Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024, pages: 2698-2702.
     
-### [Balanced Knowledge Distillation with Contrastive Learning for Document Re-ranking](https://dl.acm.org/doi/pdf/10.1145/3578337.3605120)
+### Balanced Knowledge Distillation with Contrastive Learning for Document Re-ranking [🔗](https://dl.acm.org/doi/pdf/10.1145/3578337.3605120)
 
 Yingrui Yang, **Shanxiu He**, Yifan Qiao, Wentai Xie, Tao Yang.\
 Proceedings of the 2023 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), pages: 247-255.
     
 
-### [Representation Sparsification with Hybrid Thresholding for Fast SPLADE-based Document Retrieval](https://dl.acm.org/doi/pdf/10.1145/3539618.3592051)
+### Representation Sparsification with Hybrid Thresholding for Fast SPLADE-based Document Retrieval [🔗](https://dl.acm.org/doi/pdf/10.1145/3539618.3592051)
 
 Yifan Qiao, Yingrui Yang, **Shanxiu He**, Tao Yang.\
 Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval 2023, pages: 2329-2333.

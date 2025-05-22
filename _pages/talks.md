@@ -9,7 +9,7 @@ redirect_from:
 
 ## NL Seminar-From Constrained Event Sequences Generation To Text Generation
  
-- Location: USC ISI. Aug 2022. 
+- Location: USC ISI. Aug 2021. 
 
 - Abstract: Understanding events is a critical component of natural language understanding NLU. 
 A key challenge lies in the fact that events can be described in different granularities. 
