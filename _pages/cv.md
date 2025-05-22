@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,5 +9,5 @@ redirect_to:
   - /files/shanxiu_cv.pdf
 ---
 
-{% include base_path %}
+{% include base_path %} -->
 

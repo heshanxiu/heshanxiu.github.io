@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Here are some of my selected research projects. There are three parts: [Knowledge-Enhanced NLP](#knowledge-enhanced-nlp), 
+Here are some of my research projects during undergraduate study. There are three parts: [Knowledge-Enhanced NLP](#knowledge-enhanced-nlp), 
 [Machine Commonsense](#machine-commonsense), and [Graphs](#graphs)
 
 # Knowledge-Enhanced NLP
