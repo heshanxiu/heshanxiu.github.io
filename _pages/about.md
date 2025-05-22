@@ -32,11 +32,11 @@ During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang
 Shanxiu He, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
 
     
-### Dynamic Superblock Pruning for Fast Learned Sparse Retrieval
+### Dynamic Superblock Pruning for Fast Learned Sparse Retrieval(https://arxiv.org/pdf/2504.17045)
 
 Parker Carlson, Wentai Xie, Shanxiu He, Tao Yang. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval 2025.
     
-### LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval
+### LSTM-Based Selective Dense Text Retrieval Guided by Sparse Lexical Retrieval(https://arxiv.org/pdf/2502.10639)
 
 Yingrui Yang, Parker Carlson, Yifan Qiao, Wentai Xie, Shanxiu He, Tao Yang. The 47th European Conference on Information Retrieval (ECIR) 2025.
 
@@ -50,7 +50,7 @@ Yifan Qiao, Shanxiu He, Parker Carlson, Yingrui Yang, Tao Yang. The 2024 Confere
     
 ### Cluster-based Partial Dense Retrieval Fused with Sparse Text Retrieval
 
-Yingrui Yang, Parker Carlson, Yifan Qiao, \textbf{Shanxiu He}, Tao Yang. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024, pages: 2327-2331.
+Yingrui Yang, Parker Carlson, Yifan Qiao, Shanxiu He, Tao Yang. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval 2024, pages: 2327-2331.
     
 
 ### Weighted KL-Divergence for Document Ranking Model Refinement
