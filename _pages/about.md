@@ -27,7 +27,8 @@ During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang
 
 ## Publications
 
-### <font color='blue'> Low-Cost Document Retrieval with Dense Pseudo-Query Encoding </font>
+<!-- ### <font color='blue'> Low-Cost Document Retrieval with Dense Pseudo-Query Encoding </font> -->
+### Low-Cost Document Retrieval with Dense Pseudo-Query Encoding
 
 **Shanxiu He**, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang.
 <!-- <font color='blue'> *Shanxiu He*, Wentai Xie, Yifan Qiao, Parker Carlson, Tao Yang. </font> -->
