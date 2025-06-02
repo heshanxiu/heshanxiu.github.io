@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Shanxiu He, a Computer Science Phd Candidate at UCSB with Professor [Tao Yang](https://sites.cs.ucsb.edu/~tyang/papers/index.html). My research focuses on the effectiveness and efficiency tradeoffs for neural information retrieval problems and builds retrieval models with strong zero-shot abilities.
+Hello! I am Shanxiu He, a Computer Science Phd Candidate at UCSB with Professor Tao Yang. My research focuses on the effectiveness and efficiency tradeoffs for information retrieval and builds retrieval models with strong zero-shot abilities.
+
+
+<!-- Hello! I am Shanxiu He, a Computer Science Phd Candidate at UCSB with Professor [Tao Yang](https://sites.cs.ucsb.edu/~tyang). My research focuses on the effectiveness and efficiency tradeoffs for information retrieval  and builds retrieval models with strong zero-shot abilities. -->
 
 <!-- During my undergraduate study at UCLA, I was advised by Professor [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). In summer 2021, I had the fortune to work with Professor [Jonathan May](https://www.isi.edu/~jonmay/) and Professor [Muhao Chen](https://muhaochen.github.io). -->
 
